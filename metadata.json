@@ -1,0 +1,6 @@
+{
+  "name": "Number Snake Idle Survivor",
+  "description": "An addictive, viral mobile game combining Snake Runner controls, number growth logic, roguelike upgrades, Survivor.io meta-progression, and idle rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
